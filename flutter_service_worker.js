@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/macos.jpg": "f12d30efb5859824fff701aa40fabe1c",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "320fc5e576565b5fdade1f581818a86f",
+"assets/NOTICES": "41914a1b58980aac2e86c6bed3ffff24",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -18,9 +18,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c4bf7b543010ed4b71885059e55657c5",
-"/": "c4bf7b543010ed4b71885059e55657c5",
-"main.dart.js": "d4c54acaac98298e9ed88ff109e8f5cd",
+"index.html": "1348e409582a72dbb139bd9ddbd089c5",
+"/": "1348e409582a72dbb139bd9ddbd089c5",
+"main.dart.js": "8cbb7609bdd01c7c1f3e260ca69d35de",
 "manifest.json": "a2411a30f403ac5b344b20f22ec5e43f",
 "version.json": "c1c87c18dc3926e5eae972e2f0b59961"
 };
