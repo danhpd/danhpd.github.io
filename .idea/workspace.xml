@@ -33,7 +33,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/Danh/AppData/Local/Projects/flutter_template/web",
+    "last_opened_file_path": "C:/Users/Danh/AppData/Local/Projects/danhpd.github.io",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702439071317</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="up">
+      <created>1702463647718</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702463647718</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
