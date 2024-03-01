@@ -1,6 +1,6 @@
 {
-    "name": "Task",
-    "short_name": "Task",
+    "name": "movies",
+    "short_name": "movies",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
