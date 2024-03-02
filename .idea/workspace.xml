@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef15238d-7ac3-4fbc-975f-12d1cda79166" name="Changes" comment="mkodi" />
+    <list default="true" id="ef15238d-7ac3-4fbc-975f-12d1cda79166" name="Changes" comment="mkodi2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709298660571</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="mkodi2">
+      <created>1709299975959</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709299975959</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +273,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="up" />
     <MESSAGE value="mkodi" />
-    <option name="LAST_COMMIT_MESSAGE" value="mkodi" />
+    <MESSAGE value="mkodi2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mkodi2" />
   </component>
 </project>
